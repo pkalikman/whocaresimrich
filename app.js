@@ -81,8 +81,7 @@
       const popup = `
         <strong>${escapeHtml(r.name)}</strong><br>
         ${r.neighborhood ? escapeHtml(r.neighborhood) + '<br>' : ''}
-        ${r.dish ? '<em>' + escapeHtml(r.dish) + '</em>' : ''}
-        ${r.price ? ' &mdash; ' + escapeHtml(r.price) : ''}
+        ${r.price ? escapeHtml(r.price) : ''}
         ${r.hours ? '<br>' + escapeHtml(r.hours) : ''}
         ${r.notes ? '<br>' + escapeHtml(r.notes) : ''}
       `;
@@ -110,7 +109,7 @@
           ${r._dist != null ? `<span class="dist">${(r._dist / 1609).toFixed(1)} mi</span>` : ''}
         </h3>
         <div class="meta">${escapeHtml(r.neighborhood || '')}${r.price ? ' &middot; ' + escapeHtml(r.price) : ''}</div>
-        ${r.dish ? `<div class="dish">${escapeHtml(r.dish)}</div>` : ''}
+        ${r.notes ? `<div class="notes">${escapeHtml(r.notes)}</div>` : ''}
       </div>
     `).join('');
     list.querySelectorAll('.item').forEach((el) => {

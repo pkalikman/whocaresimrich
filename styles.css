@@ -142,6 +142,13 @@ header h1 .tagline {
 
 #map { grid-area: map; background: var(--bg-2); }
 
+/* Tint the CartoDB dark tiles toward the site's caviar-purple.
+   sepia() first converts grayscale tiles to a colored (brown) scale so that
+   hue-rotate() has something to rotate; the rest tones the result down. */
+.leaflet-tile {
+  filter: sepia(0.85) hue-rotate(235deg) saturate(0.45) brightness(0.9);
+}
+
 #list {
   grid-area: list;
   overflow-y: auto;
@@ -173,7 +180,7 @@ header h1 .tagline {
   font-style: normal;
   font-family: "Playfair Display", serif;
 }
-.item .dish {
+.item .notes {
   margin-top: 0.35rem;
   font-size: 1rem;
   color: var(--ink);
