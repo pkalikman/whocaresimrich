@@ -198,5 +198,33 @@
     "lat": 40.73924,
     "lng": -74.00701,
     "notes": "The new one ain't the old one, but it will do in a pinch."
+  },
+  {
+    "name": "Bar Tabac",
+    "neighborhood": "Cobble Hill, Brooklyn",
+    "address": "128 Smith St, Brooklyn",
+    "lat": 40.68737,
+    "lng": -73.99028
+  },
+  {
+    "name": "Frankie's 457 Spuntino",
+    "neighborhood": "Carroll Gardens, Brooklyn",
+    "address": "457 Court St, Brooklyn",
+    "lat": 40.67739,
+    "lng": -73.99815
+  },
+  {
+    "name": "Rucola",
+    "neighborhood": "Boerum Hill, Brooklyn",
+    "address": "190 Dean St, Brooklyn",
+    "lat": 40.68561,
+    "lng": -73.98589
+  },
+  {
+    "name": "Haenyeo",
+    "neighborhood": "Park Slope, Brooklyn",
+    "address": "239 5th Ave, Brooklyn",
+    "lat": 40.67519,
+    "lng": -73.98111
   }
 ]
