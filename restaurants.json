@@ -1,0 +1,209 @@
+[
+  {
+    "name": "Estela",
+    "neighborhood": "NoLIta, Manhattan",
+    "address": "47 E Houston St, 1st floor",
+    "lat": 40.72464,
+    "lng": -73.99474,
+    "dish": "Burrata with salsa verde and charred bread; endive with walnuts and anchovy; dry-aged ribeye",
+    "notes": "Ignacio Mattos. Second-story dining room above a bar that no longer apologizes for itself."
+  },
+  {
+    "name": "Minetta Tavern",
+    "neighborhood": "Greenwich Village, Manhattan",
+    "address": "113 MacDougal St",
+    "lat": 40.72999,
+    "lng": -74.00070,
+    "dish": "Black Label Burger; bone marrow; côte de boeuf for two",
+    "notes": "Keith McNally. Red-checked tablecloths, caricatures on the walls, and the burger that re-set the bar."
+  },
+  {
+    "name": "Via Carota",
+    "neighborhood": "West Village, Manhattan",
+    "address": "51 Grove St",
+    "lat": 40.73320,
+    "lng": -74.00365,
+    "dish": "Svizzerina; cacio e pepe; insalata verde",
+    "notes": "Jody Williams and Rita Sodi. The reservation system finally exists; the wait is still a bit mythic."
+  },
+  {
+    "name": "L'Accolade",
+    "neighborhood": "West Village, Manhattan",
+    "address": "302 Bleecker St",
+    "lat": 40.73248,
+    "lng": -74.00395,
+    "dish": "Natural-wine French bistro: tartare, steak frites, tarte tatin",
+    "notes": "Newer Bleecker bistro with the candlelit, rough-linen look."
+  },
+  {
+    "name": "I Sodi",
+    "neighborhood": "West Village, Manhattan",
+    "address": "314 Bleecker St",
+    "lat": 40.73279,
+    "lng": -74.00405,
+    "dish": "Lasagne alle lame di Rita; Negroni on the rocks",
+    "notes": "Rita Sodi's original Tuscan room, moved north to a bigger space but still with the Negroni program."
+  },
+  {
+    "name": "L'Artusi",
+    "neighborhood": "West Village, Manhattan",
+    "address": "228 W 10th St",
+    "lat": 40.73378,
+    "lng": -74.00514,
+    "dish": "Pastas (mushroom sugo; gnocchi); crispy pink-peppercorn octopus",
+    "notes": "Two levels, white walls, good-wine-list Italian that keeps showing up on the bachelorette itinerary."
+  },
+  {
+    "name": "The Commerce Inn",
+    "neighborhood": "West Village, Manhattan",
+    "address": "50 Commerce St",
+    "lat": 40.73135,
+    "lng": -74.00571,
+    "dish": "Shaker-Americana: oysters, pork chop, pilgrim fare reimagined",
+    "notes": "Jody Williams and Rita Sodi's candlelit ode to early-America cooking. Dark wood and quiet."
+  },
+  {
+    "name": "Corner Bar",
+    "neighborhood": "Lower East Side, Manhattan",
+    "address": "60 Canal St (Hotel Nine Orchard)",
+    "lat": 40.71458,
+    "lng": -73.99250,
+    "dish": "Roast chicken for two; the burger that isn't called a burger",
+    "notes": "Ignacio Mattos at the Nine Orchard. Hotel-lobby glamour without the hotel-lobby feel."
+  },
+  {
+    "name": "Keens Steakhouse",
+    "neighborhood": "Midtown, Manhattan",
+    "address": "72 W 36th St",
+    "lat": 40.75079,
+    "lng": -73.98646,
+    "dish": "Mutton chop; prime rib; Welsh rarebit",
+    "notes": "Clay pipes on the ceiling, dark wood, and the mutton chop that's somehow older than anyone at your table."
+  },
+  {
+    "name": "Henry Public",
+    "neighborhood": "Cobble Hill, Brooklyn",
+    "address": "329 Henry St, Brooklyn",
+    "lat": 40.69029,
+    "lng": -73.99629,
+    "dish": "Turkey leg sandwich; Manhattan with the rye you weren't ordering",
+    "notes": "Tin ceilings, candlelight, a bar so thoroughly of a piece it looks built by costume department."
+  },
+  {
+    "name": "Fairfax",
+    "neighborhood": "West Village, Manhattan",
+    "address": "234 W 4th St",
+    "lat": 40.73435,
+    "lng": -74.00314,
+    "dish": "American all-day: eggs, burger, cocktails after",
+    "notes": "Happy Cooking joint. Corner windows, leather banquettes, all-day crowd."
+  },
+  {
+    "name": "Cecchi's",
+    "neighborhood": "Greenwich Village, Manhattan",
+    "address": "105 W 13th St",
+    "lat": 40.73696,
+    "lng": -73.99766,
+    "dish": "Continental-American: shrimp cocktail, pork chop, Caesar",
+    "notes": "Dimly lit red booths and a continental menu pitched to people who'd rather be in 1975."
+  },
+  {
+    "name": "Gramercy Tavern",
+    "neighborhood": "Flatiron, Manhattan",
+    "address": "42 E 20th St",
+    "lat": 40.73846,
+    "lng": -73.98851,
+    "dish": "Tavern-room walk-ins vs. dining-room tasting; roast duck; seasonal vegetables",
+    "notes": "Danny Meyer. The front tavern is the civilian entry; the back dining room is where you go to propose."
+  },
+  {
+    "name": "KJUN",
+    "neighborhood": "Murray Hill, Manhattan",
+    "address": "154 E 39th St",
+    "lat": 40.74900,
+    "lng": -73.97637,
+    "dish": "Korean-Cajun tasting menu",
+    "notes": "Tiny room, limited seats, tasting only. A chef going after one specific cross-cultural idea."
+  },
+  {
+    "name": "Peking Duck House",
+    "neighborhood": "Midtown East, Manhattan",
+    "address": "236 E 53rd St",
+    "lat": 40.75702,
+    "lng": -73.96811,
+    "dish": "Whole Peking duck, carved tableside",
+    "notes": "The Midtown sibling — order the duck, maybe the scallion pancakes, ignore the rest."
+  },
+  {
+    "name": "Cafe Luxembourg",
+    "neighborhood": "Upper West Side, Manhattan",
+    "address": "200 W 70th St",
+    "lat": 40.77742,
+    "lng": -73.98314,
+    "dish": "Steak frites; roast chicken; Lincoln Center crowd at intermission pitch",
+    "notes": "Keith McNally's UWS bistro. White tile, red banquettes, late-night menu for the post-opera crowd."
+  },
+  {
+    "name": "Sushi 35 West",
+    "neighborhood": "Midtown, Manhattan",
+    "address": "232 W 35th St",
+    "lat": 40.75186,
+    "lng": -73.99130,
+    "dish": "Omakase at the counter",
+    "notes": "Midtown sleeper doing serious sushi in a room that looks like it shouldn't."
+  },
+  {
+    "name": "Sushi Yasaka",
+    "neighborhood": "Upper West Side, Manhattan",
+    "address": "251 W 72nd St",
+    "lat": 40.77966,
+    "lng": -73.98341,
+    "dish": "Lunch omakase; dinner omakase at the counter",
+    "notes": "Lunch omakase is still one of the best value-to-quality bets north of Lincoln Center."
+  },
+  {
+    "name": "Mitsuru",
+    "neighborhood": "Greenwich Village, Manhattan",
+    "address": "149 W 4th St",
+    "lat": 40.73164,
+    "lng": -74.00045,
+    "dish": "Sushi counter with a reasonable omakase",
+    "notes": "Understated Village sushi — the kind of place people keep quiet so they can still get a seat."
+  },
+  {
+    "name": "Waverly Inn",
+    "neighborhood": "West Village, Manhattan",
+    "address": "16 Bank St",
+    "lat": 40.73694,
+    "lng": -74.00224,
+    "dish": "Truffled macaroni and cheese; chicken pot pie; burger",
+    "notes": "Graydon Carter. Hidden-fireplace Vanity-Fair-in-the-aughts feel; mural, candles, no signage."
+  },
+  {
+    "name": "Wildair",
+    "neighborhood": "Lower East Side, Manhattan",
+    "address": "142 Orchard St",
+    "lat": 40.72002,
+    "lng": -73.98916,
+    "dish": "Natural wine + small-plates bar menu",
+    "notes": "Jeremiah Stone and Fabián von Hauske's more casual Orchard Street room."
+  },
+  {
+    "name": "Contra",
+    "neighborhood": "Lower East Side, Manhattan",
+    "address": "138 Orchard St",
+    "lat": 40.71989,
+    "lng": -73.98924,
+    "dish": "Set tasting menu",
+    "notes": "Flag: Contra closed during the pandemic. Confirm before leaning on the listing — may be the adjacent Wildair project or a new iteration at the address."
+  },
+  {
+    "name": "Bar Oliver",
+    "neighborhood": "Two Bridges, Manhattan",
+    "address": "1 Oliver St",
+    "lat": 40.71301,
+    "lng": -73.99822,
+    "dish": "Wine-bar menu: small plates, tinned fish, pasta",
+    "notes": "Corner-of-nothing Two Bridges spot with the natural-wine crowd on the sidewalk."
+  }
+]
