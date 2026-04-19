@@ -45,6 +45,20 @@ h1, h2, h3 {
   pointer-events: none;
 }
 #gate-form { text-align: center; max-width: 380px; width: 90%; position: relative; }
+#gate-form .cross-link {
+  margin: 0 0 0.6rem;
+  font-size: 1.05rem;
+  color: var(--ink-muted);
+  letter-spacing: 0.02em;
+  font-style: italic;
+}
+#gate-form .cross-link a {
+  color: var(--ink-muted);
+  text-decoration: underline;
+  text-decoration-color: rgba(201, 169, 106, 0.45);
+  text-underline-offset: 3px;
+}
+#gate-form .cross-link a:hover { color: var(--gold-bright); }
 #gate-form h1 {
   font-size: 2.4rem; margin: 0 0 0.5rem;
   color: var(--gold-bright);
