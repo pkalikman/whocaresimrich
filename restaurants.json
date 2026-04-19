@@ -4,42 +4,48 @@
     "neighborhood": "NoLIta, Manhattan",
     "address": "47 E Houston St, 1st floor",
     "lat": 40.72464,
-    "lng": -73.99474
+    "lng": -73.99474,
+    "notes": "The place I made cool before Barack."
   },
   {
     "name": "Minetta Tavern",
     "neighborhood": "Greenwich Village, Manhattan",
     "address": "113 MacDougal St",
     "lat": 40.72999,
-    "lng": -74.0007
+    "lng": -74.0007,
+    "notes": "Fuck Balthazar. This is the spot."
   },
   {
     "name": "Via Carota",
     "neighborhood": "West Village, Manhattan",
     "address": "51 Grove St",
     "lat": 40.7332,
-    "lng": -74.00365
+    "lng": -74.00365,
+    "notes": "The pasta can no longer be trusted. Svizzerina no. Braciole yes. Tiramisu yes."
   },
   {
     "name": "L'Accolade",
     "neighborhood": "West Village, Manhattan",
     "address": "302 Bleecker St",
     "lat": 40.73248,
-    "lng": -74.00395
+    "lng": -74.00395,
+    "notes": "Jacques, mon amour..."
   },
   {
     "name": "I Sodi",
     "neighborhood": "West Village, Manhattan",
     "address": "314 Bleecker St",
     "lat": 40.73279,
-    "lng": -74.00405
+    "lng": -74.00405,
+    "notes": "Your parents' Via."
   },
   {
     "name": "L'Artusi",
     "neighborhood": "West Village, Manhattan",
     "address": "228 W 10th St",
     "lat": 40.73378,
-    "lng": -74.00514
+    "lng": -74.00514,
+    "notes": "Pasta yes. Ribeye yes."
   },
   {
     "name": "The Commerce Inn",
@@ -53,7 +59,8 @@
     "neighborhood": "Lower East Side, Manhattan",
     "address": "60 Canal St (Hotel Nine Orchard)",
     "lat": 40.71458,
-    "lng": -73.9925
+    "lng": -73.9925,
+    "notes": "Yes there is a burger. Yes it should be consumed."
   },
   {
     "name": "Keens Steakhouse",
@@ -81,7 +88,8 @@
     "neighborhood": "Greenwich Village, Manhattan",
     "address": "105 W 13th St",
     "lat": 40.73696,
-    "lng": -73.99766
+    "lng": -73.99766,
+    "notes": "American grill perfected."
   },
   {
     "name": "Gramercy Tavern",
@@ -95,49 +103,56 @@
     "neighborhood": "Murray Hill, Manhattan",
     "address": "154 E 39th St",
     "lat": 40.749,
-    "lng": -73.97637
+    "lng": -73.97637,
+    "notes": "The only chill place to make this list."
   },
   {
     "name": "Peking Duck House",
     "neighborhood": "Midtown East, Manhattan",
     "address": "236 E 53rd St",
     "lat": 40.75702,
-    "lng": -73.96811
+    "lng": -73.96811,
+    "notes": "Eat the best duck in NYC among a dozen geriatric Jews with health aides. Worth it."
   },
   {
     "name": "Cafe Luxembourg",
     "neighborhood": "Upper West Side, Manhattan",
     "address": "200 W 70th St",
     "lat": 40.77742,
-    "lng": -73.98314
+    "lng": -73.98314,
+    "notes": "When you live on the UWS, it's the only game in town."
   },
   {
     "name": "Sushi 35 West",
     "neighborhood": "Midtown, Manhattan",
     "address": "232 W 35th St",
     "lat": 40.75186,
-    "lng": -73.9913
+    "lng": -73.9913,
+    "notes": "Not fancy, but unreasonably good takeout sushi from a stairwell above a weed joint."
   },
   {
     "name": "Sushi Yasaka",
     "neighborhood": "Upper West Side, Manhattan",
     "address": "251 W 72nd St",
     "lat": 40.77966,
-    "lng": -73.98341
+    "lng": -73.98341,
+    "notes": "If you need takeout sushi and 35 West doesn't deliver."
   },
   {
     "name": "Mitsuru",
     "neighborhood": "Greenwich Village, Manhattan",
     "address": "149 W 4th St",
     "lat": 40.73164,
-    "lng": -74.00045
+    "lng": -74.00045,
+    "notes": "The master returns."
   },
   {
     "name": "Waverly Inn",
     "neighborhood": "West Village, Manhattan",
     "address": "16 Bank St",
     "lat": 40.73694,
-    "lng": -74.00224
+    "lng": -74.00224,
+    "notes": "Come for the views, not the food."
   },
   {
     "name": "Wildair",
@@ -158,6 +173,30 @@
     "neighborhood": "Two Bridges, Manhattan",
     "address": "1 Oliver St",
     "lat": 40.71301,
-    "lng": -73.99822
+    "lng": -73.99822,
+    "notes": "Good tapas if you can fight off the throngs of 25yo influencers."
+  },
+  {
+    "name": "Emilio's Ballato",
+    "neighborhood": "NoLIta, Manhattan",
+    "address": "55 E Houston St",
+    "lat": 40.72455,
+    "lng": -73.9945
+  },
+  {
+    "name": "Lilia",
+    "neighborhood": "Williamsburg, Brooklyn",
+    "address": "567 Union Ave, Brooklyn",
+    "lat": 40.71754,
+    "lng": -73.95242,
+    "notes": "the place for pasta across the East River."
+  },
+  {
+    "name": "Pastis",
+    "neighborhood": "Meatpacking District, Manhattan",
+    "address": "52 Gansevoort St",
+    "lat": 40.73924,
+    "lng": -74.00701,
+    "notes": "The new one ain't the old one, but it will do in a pinch."
   }
 ]
