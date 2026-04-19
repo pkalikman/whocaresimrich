@@ -3,7 +3,7 @@
 
   // Soft gate. Not cryptographic — anyone reading the source can bypass.
   // Change PASSWORD to whatever you want to share. Parallel to trtdh's 'cheap'.
-  const PASSWORD = 'champagne';
+  const PASSWORD = 'fancy';
   const STORAGE_KEY = 'wcir:unlocked';
 
   const gate = document.getElementById('gate');
