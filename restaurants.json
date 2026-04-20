@@ -240,5 +240,33 @@
     "lat": 40.73741,
     "lng": -74.00396,
     "notes": "Cafe Luxe in the Village. It'll do in a pinch."
+  },
+  {
+    "name": "La Vara",
+    "neighborhood": "Cobble Hill, Brooklyn",
+    "address": "268 Clinton St, Brooklyn",
+    "lat": 40.68780,
+    "lng": -73.99574
+  },
+  {
+    "name": "French Louie",
+    "neighborhood": "Boerum Hill, Brooklyn",
+    "address": "320 Atlantic Ave, Brooklyn",
+    "lat": 40.68801,
+    "lng": -73.98822
+  },
+  {
+    "name": "Maison Premiere",
+    "neighborhood": "Williamsburg, Brooklyn",
+    "address": "298 Bedford Ave, Brooklyn",
+    "lat": 40.71427,
+    "lng": -73.96166
+  },
+  {
+    "name": "Hotel Delmano",
+    "neighborhood": "Williamsburg, Brooklyn",
+    "address": "82 Berry St, Brooklyn",
+    "lat": 40.71972,
+    "lng": -73.95802
   }
 ]
