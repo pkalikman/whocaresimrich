@@ -273,5 +273,13 @@
     "address": "82 Berry St, Brooklyn",
     "lat": 40.71972,
     "lng": -73.95802
+  },
+  {
+    "name": "Buvette",
+    "neighborhood": "West Village, Manhattan",
+    "address": "42 Grove St",
+    "lat": 40.73263,
+    "lng": -74.00433,
+    "notes": "Drinks and scene. Food will do."
   }
 ]
