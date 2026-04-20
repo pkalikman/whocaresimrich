@@ -21,7 +21,7 @@
     "address": "51 Grove St",
     "lat": 40.7332,
     "lng": -74.00365,
-    "notes": "The pasta can no longer be trusted. Svizzerina no. Braciole yes. Tiramisu yes."
+    "notes": "The pasta can no longer be trusted; the svizzerina was always a ruse. But this spot remains a classic. Go for the braciole and the escarole salad; stay for the tiramisu."
   },
   {
     "name": "L'Accolade",
@@ -76,7 +76,8 @@
     "neighborhood": "Cobble Hill, Brooklyn",
     "address": "329 Henry St, Brooklyn",
     "lat": 40.69029,
-    "lng": -73.99629
+    "lng": -73.99629,
+    "notes": "Quite possibly the perfect pub. Music Sunday nights."
   },
   {
     "name": "Fairfax",
@@ -163,7 +164,8 @@
     "neighborhood": "NoLIta, Manhattan",
     "address": "55 E Houston St",
     "lat": 40.72455,
-    "lng": -73.9945
+    "lng": -73.9945,
+    "notes": "$40 for spaghetti and meatballs? Why, of course sir!"
   },
   {
     "name": "Lilia",
@@ -171,7 +173,7 @@
     "address": "567 Union Ave, Brooklyn",
     "lat": 40.71754,
     "lng": -73.95242,
-    "notes": "the place for pasta across the East River."
+    "notes": "The place for pasta across the East River."
   },
   {
     "name": "Pastis",
@@ -200,7 +202,8 @@
     "neighborhood": "Boerum Hill, Brooklyn",
     "address": "190 Dean St, Brooklyn",
     "lat": 40.68561,
-    "lng": -73.98589
+    "lng": -73.98589,
+    "notes": "What Al Di La was 10 years ago."
   },
   {
     "name": "Haenyeo",
@@ -253,14 +256,16 @@
     "neighborhood": "Boerum Hill, Brooklyn",
     "address": "320 Atlantic Ave, Brooklyn",
     "lat": 40.68801,
-    "lng": -73.98822
+    "lng": -73.98822,
+    "notes": "The quiet smart kid in the back of the room."
   },
   {
     "name": "Maison Premiere",
     "neighborhood": "Williamsburg, Brooklyn",
     "address": "298 Bedford Ave, Brooklyn",
     "lat": 40.71427,
-    "lng": -73.96166
+    "lng": -73.96166,
+    "notes": "Tableside sazerac, anyone? 🧐"
   },
   {
     "name": "Hotel Delmano",
