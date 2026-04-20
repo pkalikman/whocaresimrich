@@ -29,7 +29,9 @@ Commits should use `pkalikman@users.noreply.github.com` as the author email to s
 
 ## Editorial conventions
 
-The voice is dry, specific, and confident. A couple of sharp sentences per entry beats a paragraph of adjectives. Name the dish you're actually ordering. A line of texture — what the room looks like, who the crowd is, a pet peeve — goes further than a rating.
+**Never invent editorial content.** The `dish` and `notes` fields — anything a reader would perceive as opinion, taste, or first-hand experience — must come from the user, verbatim or near-verbatim. Do not generate, paraphrase into something richer, or "fill in" based on what the restaurant is known for. If the user hasn't given you a line, leave the field out and ask. A blank entry with verified address and coords is fine; a fabricated voice is not. Factual, verifiable fields (`name`, `neighborhood`, `address`, `lat`, `lng`, `hours`, `price` from an acceptable source) are fair game to look up — taste is not.
+
+The voice is dry, specific, and confident. A couple of sharp sentences per entry beats a paragraph of adjectives. Name the dish you're actually ordering. A line of texture — what the room looks like, who the crowd is, a pet peeve — goes further than a rating. But again: that voice is the user's, not yours. Your job is to transcribe and structure, not to write.
 
 **Prices.** Do not use Uber Eats, Seamless, DoorDash, or any delivery platform as a price source. Those platforms mark up menus. Acceptable sources, in rough order of preference: a photo the user took in the restaurant; a photo posted by someone on Instagram / Google Maps that is unambiguously of the in-store menu; the restaurant's own website if it publishes current pricing. If none of those is reachable or reliable, leave the `price` field out entirely and flag it in conversation — the user will fill it in.
 
@@ -51,8 +53,8 @@ The user thinks in short, specific edits. Typical requests look like:
 When a request comes in:
 
 1. If the name is unambiguous, look it up on Google Maps via the house method above. Confirm the address looks right and the coords are sensible for the neighborhood. If there are multiple locations (e.g., Peking Duck House has Midtown and Chinatown), ask which.
-2. Draft the entry with `name`, `neighborhood`, `address`, `lat`, `lng`, a `dish` line that says *what to order*, and a short `notes` line with room-texture or editorial color. Skip `price` unless you have a non-platform source.
-3. Before committing, show the user the entry — prose, not JSON — and ask if the dish-and-notes call is right. The user cares about editorial voice more than the data shape.
+2. Draft the entry with `name`, `neighborhood`, `address`, `lat`, `lng`. Do **not** write `dish` or `notes` yourself — ask the user for those lines. Skip `price` unless you have a non-platform source.
+3. Before committing, show the user the factual fields you've pulled and ask for the `dish` / `notes` copy in their words. Commit only with content the user supplied. The user cares about editorial voice more than the data shape, and it has to actually be theirs.
 4. Commit with a short, specific message (`Add Bar Oliver (1 Oliver St)`), push, and confirm the live site loaded.
 
 When the user asks for a bulk edit ("can you re-do the notes for all the West Village places"), go one at a time in the same conversation rather than dumping a rewritten file. The user wants to steer the voice.
