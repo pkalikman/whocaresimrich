@@ -240,5 +240,19 @@
     "lat": 40.73741,
     "lng": -74.00396,
     "notes": "Cafe Luxe in the Village. It'll do in a pinch."
+  },
+  {
+    "name": "French Louie",
+    "neighborhood": "Boerum Hill, Brooklyn",
+    "address": "320 Atlantic Ave, Brooklyn",
+    "lat": 40.68961,
+    "lng": -73.98755
+  },
+  {
+    "name": "La Vara",
+    "neighborhood": "Cobble Hill, Brooklyn",
+    "address": "268 Clinton St, Brooklyn",
+    "lat": 40.68961,
+    "lng": -73.99605
   }
 ]
