@@ -122,23 +122,7 @@
     "lng": -73.98314,
     "notes": "When you live on the UWS, it's the only game in town."
   },
-  {
-    "name": "Sushi 35 West",
-    "neighborhood": "Midtown, Manhattan",
-    "address": "232 W 35th St",
-    "lat": 40.75186,
-    "lng": -73.9913,
-    "notes": "Not fancy, but unreasonably good takeout sushi from a stairwell above a weed joint."
-  },
-  {
-    "name": "Sushi Yasaka",
-    "neighborhood": "Upper West Side, Manhattan",
-    "address": "251 W 72nd St",
-    "lat": 40.77966,
-    "lng": -73.98341,
-    "notes": "If you need takeout sushi and 35 West doesn't deliver."
-  },
-  {
+{
     "name": "Mitsuru",
     "neighborhood": "Greenwich Village, Manhattan",
     "address": "149 W 4th St",
